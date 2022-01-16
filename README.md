@@ -1,2 +1,2 @@
-# 100days_of_Javascript_Template
-Ready to Rage , ......... 
+DAY 7
+CLICK HERE FOR LIVE https://sreeman16.github.io/Coupon-Code-generator/
